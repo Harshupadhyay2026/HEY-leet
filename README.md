@@ -29,5 +29,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0007-reverse-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
