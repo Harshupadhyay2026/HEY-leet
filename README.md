@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0169-majority-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0202-happy-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
