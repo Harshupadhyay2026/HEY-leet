@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0169-majority-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0055-jump-game) |
+| [0152-maximum-product-subarray](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
