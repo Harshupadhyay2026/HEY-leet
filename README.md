@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
