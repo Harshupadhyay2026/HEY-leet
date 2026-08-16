@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0628-maximum-product-of-three-numbers) |
@@ -130,4 +132,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0075-sort-colors) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
