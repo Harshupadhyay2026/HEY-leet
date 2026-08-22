@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
