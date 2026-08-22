@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0628-maximum-product-of-three-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0055-jump-game) |
+| [1903-largest-odd-number-in-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0520-detect-capital) |
+| [1903-largest-odd-number-in-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
