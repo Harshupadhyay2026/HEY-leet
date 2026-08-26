@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0217-contains-duplicate) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3536-maximum-product-of-two-digits) |
@@ -198,4 +200,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2149-rearrange-array-elements-by-sign) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
