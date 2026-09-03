@@ -238,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
