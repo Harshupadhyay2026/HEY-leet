@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0075-sort-colors) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
