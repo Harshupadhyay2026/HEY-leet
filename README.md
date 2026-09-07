@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0055-jump-game) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0217-contains-duplicate) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0169-majority-element) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0151-reverse-words-in-a-string) |
