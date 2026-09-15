@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2942-find-words-containing-character](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2942-find-words-containing-character) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0520-detect-capital) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1903-largest-odd-number-in-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
