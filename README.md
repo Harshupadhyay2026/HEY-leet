@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0657-robot-return-to-origin) |
+| [0709-to-lower-case](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
