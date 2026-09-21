@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0761-special-binary-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0761-special-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0628-maximum-product-of-three-numbers) |
+| [0761-special-binary-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0761-special-binary-string) |
 | [3024-type-of-triangle](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0709-to-lower-case) |
+| [0761-special-binary-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0761-special-binary-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
