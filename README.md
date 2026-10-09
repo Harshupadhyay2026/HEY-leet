@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0151-reverse-words-in-a-string) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0876-middle-of-the-linked-list) |
