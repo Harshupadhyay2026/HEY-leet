@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0392-is-subsequence) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0234-palindrome-linked-list) |
 ## Polygons
 |  |
 | ------- |
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
