@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0202-happy-number) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0160-intersection-of-two-linked-lists) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0203-remove-linked-list-elements) |
