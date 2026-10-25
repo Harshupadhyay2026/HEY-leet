@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0058-length-of-last-word) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0707-design-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
