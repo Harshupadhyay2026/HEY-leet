@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0682-baseball-game) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2487-remove-nodes-from-linked-list) |
@@ -399,5 +401,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
