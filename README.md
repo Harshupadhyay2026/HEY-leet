@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0164-maximum-gap) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0503-next-greater-element-ii) |
@@ -403,7 +405,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2487-remove-nodes-from-linked-list) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
