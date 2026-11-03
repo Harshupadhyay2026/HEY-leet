@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1672-richest-customer-wealth](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tournament Sort
@@ -402,5 +404,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
