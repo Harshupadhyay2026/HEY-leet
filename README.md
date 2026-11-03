@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0946-validate-stack-sequences) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1672-richest-customer-wealth](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0946-validate-stack-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2293-min-max-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2293-min-max-game) |
 ## Enumeration
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0946-validate-stack-sequences) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2487-remove-nodes-from-linked-list) |
