@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1672-richest-customer-wealth](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0628-maximum-product-of-three-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2652-sum-multiples) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0946-validate-stack-sequences) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2293-min-max-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2293-min-max-game) |
 ## Enumeration
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2487-remove-nodes-from-linked-list) |
 ## Polygons
 |  |
@@ -433,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0456-132-pattern) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
