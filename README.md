@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0456-132-pattern) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0707-design-linked-list) |
 ## Bracket Sequences
 |  |
@@ -450,5 +452,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
