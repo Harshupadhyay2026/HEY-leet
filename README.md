@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0053-maximum-subarray) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0152-maximum-product-subarray) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0155-min-stack) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0456-132-pattern) |
