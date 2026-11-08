@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0735-asteroid-collision) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0761-special-binary-string) |
 | [3024-type-of-triangle](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3024-type-of-triangle) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0402-remove-k-digits) |
+| [0561-array-partition](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -460,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
