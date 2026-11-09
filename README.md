@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0946-validate-stack-sequences) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1672-richest-customer-wealth](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0413-arithmetic-slices) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Simulation
 |  |
 | ------- |
