@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0413-arithmetic-slices) |
+| [1668-maximum-repeating-substring](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0709-to-lower-case) |
 | [0761-special-binary-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0761-special-binary-string) |
+| [1668-maximum-repeating-substring](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1668-maximum-repeating-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
