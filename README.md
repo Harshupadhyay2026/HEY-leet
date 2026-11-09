@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0946-validate-stack-sequences) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1672-richest-customer-wealth](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0204-count-primes) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 ## Number Theory
 |  |
 | ------- |
