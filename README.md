@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0287-find-the-duplicate-number) |
+| [0413-arithmetic-slices](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0485-max-consecutive-ones) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0413-arithmetic-slices) |
 ## Greedy
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0413-arithmetic-slices) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
