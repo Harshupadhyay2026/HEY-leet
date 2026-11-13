@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2293-min-max-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2293-min-max-game) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2798-number-of-employees-who-met-the-target) |
