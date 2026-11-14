@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0164-maximum-gap) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0160-intersection-of-two-linked-lists) |
@@ -509,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0561-array-partition) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
