@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0735-asteroid-collision) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0575-distribute-candies) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1748-sum-of-unique-elements](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1832-check-if-the-sentence-is-pangram) |
