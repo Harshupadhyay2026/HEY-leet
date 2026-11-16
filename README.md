@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2942-find-words-containing-character) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3285-find-indices-of-stable-mountains) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3843-first-element-with-unique-frequency) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3843-first-element-with-unique-frequency](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3843-first-element-with-unique-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
