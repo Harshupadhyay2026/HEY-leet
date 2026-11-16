@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3731-find-missing-elements) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2652-sum-multiples) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3232-find-if-digit-game-can-be-won) |
