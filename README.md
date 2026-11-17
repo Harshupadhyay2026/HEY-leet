@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0946-validate-stack-sequences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0575-distribute-candies) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1748-sum-of-unique-elements](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0287-find-the-duplicate-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
