@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0413-arithmetic-slices) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0485-max-consecutive-ones) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0575-distribute-candies) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0761-special-binary-string) |
