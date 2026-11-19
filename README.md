@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2293-min-max-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2293-min-max-game) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2670-find-the-distinct-difference-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2670-find-the-distinct-difference-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2942-find-words-containing-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2670-find-the-distinct-difference-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2670-find-the-distinct-difference-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/3718-smallest-missing-multiple-of-k) |
