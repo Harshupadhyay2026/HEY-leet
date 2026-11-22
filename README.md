@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0867-transpose-matrix) |
+| [0908-smallest-range-i](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0908-smallest-range-i) |
 | [0946-validate-stack-sequences](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1004-max-consecutive-ones-iii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0628-maximum-product-of-three-numbers) |
+| [0908-smallest-range-i](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/0908-smallest-range-i) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Harshupadhyay2026/HEY-leet/tree/master/2235-add-two-integers) |
